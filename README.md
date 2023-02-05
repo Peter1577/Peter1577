@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Peter1577
-- 👀 I’m interested in full stack web developer
-- 🌱 I’m currently learning HTML,CSS & java script
-- 📫 How to reach me on 8919112371
+- 👀 in phase of learinig full  stack web developer
+- 🌱 self learing charachter
+- 📫 reach me on 8919112371
+- email : peterranadivemsp1577@gmail.com
+- linkedin : https://www.linkedin.com/in/peter-ranadive-b782071b4
 
 <!---
 Peter1577/Peter1577 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
